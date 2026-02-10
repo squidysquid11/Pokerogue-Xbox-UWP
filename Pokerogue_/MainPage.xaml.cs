@@ -12,7 +12,7 @@ namespace Pokerogue_
     public sealed partial class MainPage : Page
     {
         private const string StartUrl = "https://pokerogue.net";
-        private const int ReloadDelayMs = 4510;
+        private const int ReloadDelayMs = 4520;
 
         // One-time delayed reload flag
         private bool _initialReloadDone;
