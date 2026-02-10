@@ -13,9 +13,8 @@ Designed to feel like a native Xbox game rather than a browser where possible.
 
 - 🚀 **Launches directly into Pokerogue**
 - 🖥️ **Runs in full-screen** (no borders, no safe-area padding)
-- 🎮 **Controller-first experience**
 - 🧹 **No browser UI** (no menus, popups, dev tools, or zoom)
-- 🖱️ **Hides the mouse cursor once ingame**
+- 🎮 **Hides the mouse cursor once ingame**
 - 🔒 **Prevents accidental exits**
 
 ---
