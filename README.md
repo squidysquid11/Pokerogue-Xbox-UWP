@@ -4,6 +4,9 @@ A lightweight **Xbox Dev Mode** UWP app that runs **Pokerogue** in a full-screen
 
 Designed to feel like a native Xbox game rather than a browser where possible.
 
+<img width="1240" height="1240" alt="rogue (2)" src="https://github.com/user-attachments/assets/4119311a-04ac-4d03-b463-af90aad78b7b" />
+
+
 ---
 
 ## ✨ What this app does
