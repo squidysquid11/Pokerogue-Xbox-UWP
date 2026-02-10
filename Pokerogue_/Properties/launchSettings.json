@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Pokerogue_": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
