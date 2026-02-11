@@ -9,7 +9,7 @@
     mc:Ignorable="d"
     Background="Black">
 
-    <Grid Background="Black">
+    <Grid x:Name="RootGrid" Background="Black">
         <wv2:WebView2
             x:Name="Browser"
             HorizontalAlignment="Stretch"
