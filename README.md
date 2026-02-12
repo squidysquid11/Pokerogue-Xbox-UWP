@@ -19,17 +19,19 @@ Designed to feel like a native Xbox game rather than a browser where possible.
 
 ---
 
-## 🔄 Automatic refresh (why it exists)
+## 💥 First load crash (why it happens)
 
-After the app starts and Pokerogue loads:
+Pokerogue may crash on the first load
 
-- The page refreshes **once**, **4 seconds after first load**
-- This helps ensure:
-  - the site fully initialises
-  - cached or partial loads are cleared
-  - long-running sessions start cleanly
+This is expected behaviour
 
-The refresh only happens **once per launch**.
+It happens while the game caches its assets locally for the first time
+
+After this:
+
+Re-open the game
+
+Pokerogue should then launch normally
 
 ---
 
