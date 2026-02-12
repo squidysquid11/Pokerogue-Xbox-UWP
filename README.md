@@ -75,9 +75,10 @@ Any attempted popup or new window is opened **inside the same view** instead.
 
 ## ⚠️ Notes
 
-- This app is **not affiliated** with Pokerogue
+- This app is **not affiliated** with the team behind Pokerogue
 - Requires **Xbox Developer Mode**
 - Uses **WebView2 (UWP)**
+- If you just want to play the game on a PC or Mobile device go to https://pokerogue.net/
 
 ---
 
